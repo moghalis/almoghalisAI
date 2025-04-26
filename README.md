@@ -2,7 +2,8 @@
 📚 almoghalisAI | YouTube Tutorials – AI, ML, and Data Science Notebooks 
 Welcome to the official repository for almoghalisAI — your one-stop destination for mastering Artificial Intelligence, Machine Learning, and Data Science through practical, real-world tutorials.
 
-This repository contains Jupyter Notebooks and resources that accompany the video tutorials on my YouTube Channel 📺.
+This repository contains Jupyter Notebooks and resources that accompany the [🔗 video tutorials on my YouTube Channel 📺 – almoghalisAI LIKE & SUBSCRIBE](https://youtube.com/@almoghalisAI)
+
 Each notebook is designed to help you learn by doing and covers topics ranging from beginner concepts to advanced AI techniques.
 
 ✨ What You’ll Find Here
